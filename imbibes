@@ -1,0 +1,10 @@
+sudo su -_jaime-meline
+sudo extundelete /dev/sdXY --restore-file /dev/sda3. 2a
+sudo extundelete /dev/sdXY --restore-file /dev/sda3. 2b
+sudo extundelete /dev/sdXY --restore-file /dev/sda3. 2c
+sudo extundelete /dev/sdXY --restore-file /dev/sda3. 2d
+sudo extundelete /dev/sdXY --restore-file /dev/sda8. 1a
+sudo extundelete /dev/sdXY --restore-file /dev/sda8. 1b
+sudo extundelete /dev/sdXY --restore-file /dev/sda2. 1a
+sudo extundelete /dev/sdXY --restore-file /dev/sda2. 1b
+>file
